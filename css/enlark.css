@@ -1,0 +1,37 @@
+a { color: #3465a4; text-decoration: none; }
+a:visited { color: #182f4c; }
+a:hover { text-decoration: underline; }
+/* #hd { border-bottom: 0.3em black solid; } */
+#logo { margin: 1em; float: right; }
+#crumbs { text-align: right; border-bottom: 0.3em black double; background: #eeeeec; }
+#bd { margin: 1em 0; }
+#bd h1 { font-size: 138.5%; }
+#ft { color: #808080; padding-top: 1em; }
+.x { padding: 1em; }
+.x h2 {	font-size:123.1%; }
+.x h3 {	font-size:108%; }
+.x h1, .x h2, .x h3 { margin: 0.5em 0; }
+.xr h1, .xo h1, .xb h1, .xlou h1 { color: white; }
+.xr { background-color: #ef2929; background-image: url('../images/squiggle-red.png'); background-repeat: repeat-x; border: 0.2em #ef2929 solid; }
+.xo { background-color: #fcaf3e; background-image: url('../images/squiggle-orange.png'); background-repeat: repeat-x; border: 0.2em #fcaf3e solid; }
+.xlou { background-color: #fcaf3e; background-image: url('../images/squiggle-orange-fleur.png'); background-repeat: repeat-x; border: 0.2em #fcaf3e solid; }
+.xb { background: #729fcf; background-image: url('../images/squiggle-blue.png'); background-repeat: repeat-x; border: 0.2em #729fcf solid; }
+.xor, .xoo, .xob { padding-left: 55px; }
+.xor { background-image: url('../images/gutter-red.png'); background-repeat: repeat-y; border: 0.2em #ef2929 solid; }
+.xor h1 { color: #ef2929; }
+.xoo { background-image: url('../images/gutter-orange.png'); background-repeat: repeat-y; border: 0.2em #fcaf3e solid; }
+.xoo h1 { color: #fcaf3e; }
+.xob { background-image: url('../images/gutter-blue.png'); background-repeat: repeat-y; border: 0.2em #729fcf solid; }
+.xob h1 { color: #729fcf; }
+.x h1,.x h2,.x h3,.x h4,.x h5,.x h6,.x strong {	font-weight:bold; }
+.x abbr, .x acronym { border-bottom:1px dotted #000; cursor:help; } 
+.x em { font-style:italic; }
+.x blockquote, .x ul, .x ol, .x dl { margin:1em; }
+.x ol, .x ul, .x dl { margin-left:2em; }
+.x ol li { list-style: decimal outside;	}
+.x ul li { list-style: disc outside; }
+.x dl dd { margin-left:1em; }
+.x th,.x td { border:1px solid #000; padding:.5em; }
+.x th {	font-weight:bold; text-align:center; }
+.x caption { margin-bottom:.5em; text-align:center; }
+.x p, .x fieldset, .x table { margin-bottom:1em; }
